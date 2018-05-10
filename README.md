@@ -24,6 +24,6 @@
 - RxCocoa
 
 ### デモ
-
+![](https://github.com/tomoyamatsuyama/KyouSanBusNavi/blob/master/KSUBusNavi.gif)
 
 ### App store　リンク
